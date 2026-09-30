@@ -1,0 +1,1 @@
+cant = int(input("Introduce la cantidad a invertir:"))
